@@ -28,7 +28,7 @@ service cloud.firestore {
 
 note: this is for testing
 
-5- go to Project Settings (ADD APP) to create the google-services.json
+5- go to Project Settings (ADD APP) Add Firebase to your Android to create the google-services.json
 
 6- add the google-services.json to android/app/google-services.json
 
