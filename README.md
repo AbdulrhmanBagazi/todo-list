@@ -1,5 +1,5 @@
 # todo-list
-React Native - Firebase
+React Native - Firebase (Android)
 
 clone repo
 
