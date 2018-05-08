@@ -16,20 +16,11 @@ go to Console:
 3- Database (Try Firestore beta)
 
 4- Database rules:
-// Anyone can read or write to the database, even non-users of your app.
-service cloud.firestore {
-  match /databases/{database}/documents {
-    // Match all documents, recursively, with a wildcard and the "=**" recursive modifier
-    match /{document=**} {
-      allow read, write;
-    }
-  }
-}
-
-note: this is for testing
+https://firebase.google.com/docs/firestore/security/get-started
 
 5- go to Project Settings (ADD APP) Add Firebase to your Android to create the google-services.json
 
 6- add the google-services.json to android/app/google-services.json
 
+Done.
 
