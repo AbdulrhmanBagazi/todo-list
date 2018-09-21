@@ -25,13 +25,8 @@ https://firebase.google.com/docs/firestore/security/get-started
 Done.
 
 
-<img src="https://photos.app.goo.gl/rBe48nJuw1g8Nib67" alt="alt text" width="300" height="500">
+https://photos.app.goo.gl/rBe48nJuw1g8Nib67
+https://photos.app.goo.gl/8qjux7yQqB3CqvM18
+https://photos.app.goo.gl/FxgVdAXwFgaYGAWq7
 
-
-
-<img src="https://photos.app.goo.gl/8qjux7yQqB3CqvM18" alt="alt text" width="300" height="500">
-
-
-
-<img src="https://photos.app.goo.gl/FxgVdAXwFgaYGAWq7" alt="alt text" width="300" height="500">
 
